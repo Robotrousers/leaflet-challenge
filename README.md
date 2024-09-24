@@ -2,12 +2,8 @@
 
 ## Christopher Turner - Wk15Challenge
 
-### Why this project?
-intro and info
-
-
 ### Purpose
-reasons
+To visualize and display the magnitude earthquakes across the USA
 
 <br>
 
@@ -32,5 +28,5 @@ reasons
 <br>
 
 ### Resources, Cites and API
-- *great info* - 
+- *inline block css for legend* - https://www.w3schools.com/css/css_inline-block.asp
 - 
