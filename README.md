@@ -31,3 +31,4 @@ To visualize and display the location and magnitude of earthquakes across the US
 - *inline block css for legend* - https://www.w3schools.com/css/css_inline-block.asp
 - *geojson format for this data* - https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 - *color brewer to choose legend colors* - https://colorbrewer2.org/#type=diverging&scheme=RdYlGn&n=6
+- *huge resource* - class activity 04-Par_SchoolDistrictChoropleth
