@@ -11,9 +11,9 @@ reasons
 
 <br>
 
-### The instructions for this challenge are divided into the following subsections:
-    Part 1: Create the Earthquake Visualization
-    Part 2: Gather and Plot More Data (Optional with no extra points earning)
+### The instructions for this challenge
+ `Create the Earthquake Visualization`
+ <br> <br>
 
 ### This repo contains the following files:
     root\
