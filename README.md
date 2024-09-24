@@ -3,7 +3,7 @@
 ## Christopher Turner - Wk15Challenge
 
 ### Purpose
-To visualize and display the magnitude earthquakes across the USA
+To visualize and display the location and magnitude of earthquakes across the USA. Using the  USGS GeoJSON Feed [https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php], create the visualization, add popup with extra info and a legend.
 
 <br>
 
