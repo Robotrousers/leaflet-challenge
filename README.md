@@ -3,7 +3,7 @@
 ## Christopher Turner - Wk15Challenge
 
 ### Purpose
-To visualize and display the location and magnitude of earthquakes across the USA. Using the  USGS GeoJSON Feed [https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php], create the visualization, add popup with extra info and a legend.
+To visualize and display the location and magnitude of earthquakes across the USA. Using the  USGS GeoJSON Feed [https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php], create the visualization, add popup with extra info and a legend. This repo is posted to Github Pages for easier viewing.
 
 <br>
 
@@ -23,7 +23,7 @@ To visualize and display the location and magnitude of earthquakes across the US
       - `logic.js` - javascript file where all the work will be completed
     
     Images\
-      - `list viz exports here`
+      - `Visualization provided by the challenge starter files`
 
 <br>
 
